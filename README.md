@@ -14,7 +14,7 @@ tensorboardX
 
 ## Quick start
 
-+ 'mkdir checkpoint data NH_results training_log'
++ `mkdir checkpoint data NH_results training_log`
 + Download datasets into ./data folder
 + Use `bash run.sh`
 + If you train on REDIES datasets, please use train_phrase 1.
