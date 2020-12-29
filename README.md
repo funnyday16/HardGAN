@@ -23,15 +23,16 @@ tensorboardX
 ## Citation
 
 If your find our research is helpful for you, please cite our paper.
-
-`@inproceedings{deng2020hardgan,
+```
+@inproceedings{deng2020hardgan,
   title={HardGAN: A Haze-Aware Representation Distillation GAN for Single Image Dehazing},
   author={Deng, Qili and Huang, Ziling and Tsai, Chung-Chi and Lin, Chia-Wen},
   booktitle={European Conference on Computer Vision},
   pages={722--738},
   year={2020},
   organization={Springer}
-}`
+}
+```
 
 
 
